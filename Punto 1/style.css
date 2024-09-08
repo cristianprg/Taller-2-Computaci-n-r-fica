@@ -1,0 +1,75 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.black-box{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.black-button{
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 50px;
+    width: 150px;
+}
+
+.center{
+    text-align: center;
+}
+
+.container-top  {   
+    background-color: rgb(214, 211, 211);
+    margin: 35px;
+    padding: 20px;
+}
+
+.top-element{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.container-top p{
+    width: 33.3%;
+    margin-left: 33.3%;
+}
+
+.container-mid{
+    text-align: center;
+}
+
+.container-mid p{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.container-mid p, h2{
+    color: rgb(97, 96, 96);
+}
+
+.horizontal-list{
+    text-align: center;
+}
+
+.list-item{
+    display: inline-block;
+    padding: 20px;
+}
+
+.list-item p{
+    text-align: left;
+    color: rgb(97, 96, 96);
+}
+
+.list-item a{
+    text-decoration: none;
+    color: rgb(97, 96, 96);
+    font-size: small;
+}
+
+.limit-div{
+    width: 200px;
+}
